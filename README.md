@@ -1,6 +1,6 @@
 # 🛍️ Product Dashboard
 
-A responsive, accessible, and modern product dashboard built using **React**, **Redux Toolkit**, and **Tailwind CSS**. This application demonstrates key frontend skills like state management, asynchronous API handling, filtering, sorting, and testing.
+A responsive, accessible, and modern product dashboard built using **React**, **Redux Toolkit**, and **Tailwind CSS**. This application demonstrates key frontend skills like state management, asynchronous API handling, filtering and sorting.
 
 ---
 
