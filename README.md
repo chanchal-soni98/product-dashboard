@@ -50,7 +50,7 @@ A responsive, accessible, and modern product dashboard built using **React**, **
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/chanchal-soni98/Neuradynamics.AI-Assignment.git
+   git clone https://github.com/chanchal-soni98/product-dashboard.git
    cd Neuradynamics.AI-Assignment
    npm install
    npm run dev
